@@ -8,7 +8,6 @@
     },
     "files": [
         "README.md",
-        "cis_utils.py",
         "pxt.json",
         "cis_utils.ts"
     ],
