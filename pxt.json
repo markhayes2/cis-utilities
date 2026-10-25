@@ -10,6 +10,7 @@
         "main.ts",
         "README.md",
         "main.py",
+        "cis_utils.py",
         "pxt.json"
     ],
     "testFiles": [
