@@ -11,7 +11,8 @@
         "README.md",
         "main.py",
         "cis_utils.py",
-        "pxt.json"
+        "pxt.json",
+        "cis_utils.ts"
     ],
     "testFiles": [
         "test.ts"
